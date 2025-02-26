@@ -11,5 +11,4 @@
 ![App Screenshot](assets/images/preview02.png)
 ![App Screenshot](assets/images/preview03.png)
 
------
-#### 🙌 Автор: [@nagoev-alim](https://github.com/nagoev-alim)
+
